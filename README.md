@@ -1,5 +1,3 @@
-# AdaptationDatabaseSwitzerland
-
 # Climate adaptation measures for Switzerland
 
 A small website for browsing the table of measures from NCCS-Impacts, project P5: Climate costs. It shows adaptation measures by climate risk and by actor, together with their effectiveness, costs and assessment criteria.
