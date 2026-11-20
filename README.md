@@ -27,7 +27,7 @@ Download `index.html` and double-click it. It opens in a browser; no installatio
 1. Upload `index.html` to this repository (the repository must be public on a free GitHub account).
 2. Open **Settings → Pages**.
 3. Under **Build and deployment**, choose **Deploy from a branch**, select the `main` branch and the `/ (root)` folder, then save.
-4. After a minute or two the site is live at `https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/`.
+4. After a minute or two the site is live at `https://veruskamuccione.github.io/AdaptationDatabaseSwitzerland/`.
 
 Every later change to `index.html` in the repository is published automatically.
 
